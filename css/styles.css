@@ -46,6 +46,7 @@ hr {
   text-align: left;
 }
 
+
 .code-img {
   width: 25%;
   float: left;
@@ -102,10 +103,10 @@ hr {
 
 a{
   color: #112D4E;
-  margin: 10px 20px;
+  margin-right: 20px;
   text-decoration: none;
 }
 
 a:hover {
-  color: #3F72AF;
+  color: #589ff5;
 }
