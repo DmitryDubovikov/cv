@@ -68,6 +68,7 @@ hr {
 .intro {
   width: 50%;
   margin: auto;
+  text-align: left;
 }
 
 .btn {
